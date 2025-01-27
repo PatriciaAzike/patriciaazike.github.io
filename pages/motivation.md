@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Motivation
-category: resources
-permalink: /resources
+category: motivation
+permalink: /motivation
 ---
