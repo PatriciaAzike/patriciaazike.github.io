@@ -1,6 +1,8 @@
 ---
 layout: category
-title: Interesting Facts
+title: Faith Diary
 category: facts
 permalink: /facts
 ---
+
+bsmhvfkwefvfkqfjv
