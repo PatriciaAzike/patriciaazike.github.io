@@ -1,8 +1,8 @@
 ---
 layout: category
 title: Faith Diary
-category: facts
-permalink: /facts
+category: faith
+permalink: /faith
 ---
 
 bsmhvfkwefvfkqfjv
