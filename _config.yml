@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Alis volat propriis ad astra…esto perpetua!"
 description:	       "Weaving poetry and motivation into a tapestry of resilience and hope"
-author:              "Patricia Azike"
+#author:              "Patricia Azike"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
